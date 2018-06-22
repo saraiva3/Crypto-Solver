@@ -1,4 +1,4 @@
-# Crypto-Solver
+# Crypto Solver
 A solver for the crypto puzzle:
 
 Given numbers={9,10,10,6,2} find an equation composed only of (+,-,*, \/) using all the given numbers that results in the goal.
