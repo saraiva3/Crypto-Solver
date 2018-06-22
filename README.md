@@ -11,4 +11,4 @@ For example:
 **Solution**: ((10/10) / (9 –(6+2)))
 
 
-The code solves it in many ways, including some heuristics explaineds in the document (CryptoHeuristics.pdf)
+The code solves it in many ways, including some heuristics explaineds in the document (HeuristicDocument.pdf)
